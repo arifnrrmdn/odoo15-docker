@@ -101,5 +101,10 @@ docker-compose --version
 - **PostgreSQL** berjalan di container terpisah dan terhubung dengan Odoo.
 
 ## **Screenshot**
-![]()
+![](https://github.com/arifnrrmdn/odoo15-docker/blob/main/screenshot/1.png)
 
+![](https://github.com/arifnrrmdn/odoo15-docker/blob/main/screenshot/2.png)
+
+![](https://github.com/arifnrrmdn/odoo15-docker/blob/main/screenshot/3.png)
+
+![](https://github.com/arifnrrmdn/odoo15-docker/blob/main/screenshot/4.png)
