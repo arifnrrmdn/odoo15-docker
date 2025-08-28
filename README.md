@@ -1,4 +1,4 @@
-# Setup Environment Development Odoo 13 di Docker
+# Setup Environment Development Odoo 15 di Docker
 
 Panduan ini menjelaskan langkah-langkah untuk melakukan setup lingkungan pengembangan **Odoo 15** menggunakan **Docker**. Semua pengaturan dilakukan dengan konfigurasi standar untuk pengembangan aplikasi berbasis Docker.
 
